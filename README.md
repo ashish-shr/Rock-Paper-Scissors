@@ -3,7 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple rock, paper, scissors game implemented in C++ using .NET and WinForms.
-### <img src="RockPaperScissors_Demo.png">
+### <img src="1.png">
+### <img src="2.png">
+### <img src="3.png">
+### <img src="4.png">
 
 ## Getting Started🛹
 
